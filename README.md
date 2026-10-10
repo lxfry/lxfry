@@ -1,12 +1,10 @@
 # Lucas Frery 
 
-I am an **Electronics Hardware Engineer** specializing in PCB design, embedded control, and validation for real-world systems.
+I am an **Electronics Hardware Engineer** specialising in PCB design, embedded systems, and system integration for **UAVs, robotics, and autonomous defence platforms**.
 
-My work bridges circuit design, lab testing, and system integration. I enjoy translating technical requirements into reliable electronics—from component selection and schematic design to PCB review, board bring-up, and measurement-led debugging.
+My work takes products from early requirements to validated hardware: electrical architecture, component selection, schematic design, PCB layout, prototyping, board bring-up, and measurement-led debugging. I combine practical lab work with systems thinking to turn technical requirements into reliable electronics.
 
-I am particularly interested in robotics, automotive applications, and embedded systems, where electronics must be robust, measurable, and practical. My goal is to develop hardware that is not only functional on paper, but validated, well understood, and ready for integration into a complete system.
-
-My main areas of interest are **robotics, UAVs, autonomous systems and defence technologies**.
+I am particularly drawn to applications where hardware must be robust, measurable, and practical. My focus is on developing electronics that are not merely functional on paper, but well understood, thoroughly validated, and ready to integrate into complete systems.
 
 ---
 
